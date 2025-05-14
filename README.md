@@ -1,8 +1,6 @@
 Code for COL_DIST
 -----------------
-Ofir Pele 
 Contact: ofirpele@gmail.com
-Version: 1, September 2013
 
 This directory contains the source code for computing COL_DIST which was described here:
 
